@@ -50,3 +50,4 @@ Notice `exts` is repo subfolder with extensions. More information can be found i
 
 To add a link to your *Omniverse Kit* based app go into: Extension Manager -> Gear Icon -> Extension Search Path
 
+Test
